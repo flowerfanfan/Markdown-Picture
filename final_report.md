@@ -18,7 +18,7 @@
 
 
 
-### PSP 2.1 统计表
+### 二、PSP 2.1 统计表
 
  
 PSP2.1       | Personal Software Process Stages| Time (%) Senior Student |
@@ -40,7 +40,7 @@ Size Measurement | 计算工作量 | 2 |
 Postmortem & Process Improvement Plan| 事后总结, 并提出过程改进计划 | 6 |
 
 
-### 个人分支的 GIT 统计报告
+### 三、个人分支的 GIT 统计报告
 
 
 ![](https://raw.githubusercontent.com/flowerfanfan/Markdown-Picture/master/Git总结.png)
@@ -48,11 +48,11 @@ Postmortem & Process Improvement Plan| 事后总结, 并提出过程改进计划
 
 ![](https://raw.githubusercontent.com/flowerfanfan/Markdown-Picture/master/Git个人总结.png)
 
-### 自认为最得意/或有价值/或有苦劳的工作清单，含简短说明
+### 四、自认为最得意/或有价值/或有苦劳的工作清单，含简短说明
 
 学习了微信小程序的框架，进行页面的设计与编写。
 
-### 个人的技术类、项目管理类博客清单
+### 五、个人的技术类、项目管理类博客清单
 
   - [微信小程序中wxml的标签说明](https://blog.csdn.net/shtxghy/article/details/80961364)
 
